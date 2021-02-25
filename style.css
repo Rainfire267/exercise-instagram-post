@@ -1,0 +1,17 @@
+body{
+    background: gray;
+    margin: 0px;
+}
+header {
+    background: white;
+}
+header h1{
+    margin: 0px;
+}
+.post{
+    background: white;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}

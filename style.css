@@ -1,17 +1,36 @@
 body{
     background: gray;
-    margin: 0px;
+    margin: 10px;
 }
 header {
     background: white;
 }
-header h1{
-    margin: 0px;
+header h2{
+    margin: 20px;
+    padding: 5px;
 }
 .post{
     background: white;
+    display: flex;
+    margin-bottom: 20px;
+
 }
-.container{
-    width: 600px;
+#image-post{
+    margin-top: 0px;
+    width: 350px;
+    height: 275px;
+    width: auto;
+    display: block;
+}
+#container{
+    height: 500px;
+    width: 350px;
+    margin: auto;
+    padding: 0px;
+}
+#icons-cont{
+    background-color: white;
+    width: 300px;
+    height: 200px;
     margin: auto;
 }
